@@ -25,7 +25,7 @@ test_requirements = [
 
 setup(
     name='ahps_alerts',
-    version='0.1.4',
+    version='0.1.5',
     description="Retrieve NWS AHPS alerts",
     long_description=readme + '\n\n' + history,
     author="David Hickman",
