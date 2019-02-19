@@ -1,5 +1,5 @@
 pip==9.0.1
-pip-tools==1.10.1
+pip-tools==3.4.0
 bumpversion==0.5.3
 wheel==0.30.0
 watchdog==0.8.3
